@@ -11,6 +11,12 @@ AgentBar:
 brew install --cask terrytan95/tap/agentbar
 ```
 
+SkillLedger:
+
+```bash
+brew install --cask terrytan95/tap/skillledger
+```
+
 Or `brew tap terrytan95/tap` and then `brew install <formula>` or `brew install --cask <cask>`.
 
 Or, in a `brew bundle` `Brewfile`:
