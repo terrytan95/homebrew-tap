@@ -1,6 +1,6 @@
 cask "agentbar" do
-  version "2.4.13"
-  sha256 "064cbd4599b5565f2d878087d0d38e63f81be0711f5ce4d6cfc4aa75d6786248"
+  version "2.4.14"
+  sha256 "9ee341c00974d6a05fd58f6eab7f8b2168038f3290c5bb4b3844caff3950f7ed"
 
   url "https://github.com/terrytan95/AgentBar/releases/download/v#{version}/AgentBar-v#{version}.zip",
       verified: "github.com/terrytan95/AgentBar/"
