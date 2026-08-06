@@ -1,6 +1,8 @@
+# frozen_string_literal: true
+
 cask "skillledger" do
-  version "0.1.3"
-  sha256 "0312e3952b85ecff60b86f1c56061cff07dbe1d9d648a149d4bb0f6aeb75d690"
+  version "0.1.4"
+  sha256 "2d62e1d8055a92e9ff8f41267db396257c51a1cb24e03c28184f031bfc09b422"
 
   url "https://github.com/terrytan95/skillledger/releases/download/v#{version}/SkillLedger-#{version}-arm64.dmg",
       verified: "github.com/terrytan95/skillledger/"
